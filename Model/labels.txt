@@ -1,0 +1,2 @@
+0 BatteryCar
+1 Emergency
